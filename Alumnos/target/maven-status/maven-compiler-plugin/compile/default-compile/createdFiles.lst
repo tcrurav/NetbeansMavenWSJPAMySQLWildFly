@@ -1,0 +1,5 @@
+org\ieselrincon\alumnos\Ciclo_.class
+org\ieselrincon\alumnos\service\CicloFacadeREST.class
+org\ieselrincon\alumnos\Ciclo.class
+org\ieselrincon\alumnos\service\ApplicationConfig.class
+org\ieselrincon\alumnos\service\AbstractFacade.class
